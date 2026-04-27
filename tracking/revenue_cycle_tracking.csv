@@ -1,0 +1,5 @@
+claim_id,patient_name,diagnosis_code,procedure_codes,total_amount,claim_status,denial_reason,resubmission_status,final_payment
+CLM-001,John Doe,J20.9,"99213,71020",250,Denied,Missing documentation,Resubmitted,200
+CLM-002,Sara Ahmed,E11.9,"99214",180,Approved,,N/A,150
+CLM-003,Ali Hassan,I10,"99213",120,Denied,Coding error,Pending,
+CLM-004,Mona Ali,J45.909,"99213,94010",220,Approved,,N/A,180
