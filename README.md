@@ -68,7 +68,8 @@ This case demonstrates outpatient evaluation, coding, billing, and claim process
 - Claim Lifecycle Management  
 - Denial Analysis & Resolution  
 - Attention to Detail & Data Accuracy  
-
+- Revenue Cycle Tracking & Reporting (Excel/CSV)
+- Revenue Cycle KPI Analysis & Performance Tracking
 ---
 
 ## Use Cases
