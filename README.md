@@ -50,7 +50,7 @@ README.md
   - 71020 (Chest X-ray)
 
 This case demonstrates outpatient evaluation, coding, billing, and claim processing.
-
+Includes a dashboard-ready structure for revenue cycle performance analysis and KPI tracking.
 ---
 
 ## Denial Management
